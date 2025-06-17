@@ -4,6 +4,7 @@ A data-driven look into ride patterns using Python and visualization tools.
 This project explores user behavior, trip timing, and ride statuses using Uber data.
 
 🔍 Project Highlights
+
 Cleaned and preprocessed real-world ride data using pandas
 
 Performed detailed Exploratory Data Analysis (EDA) with matplotlib and seaborn
@@ -17,6 +18,7 @@ Status patterns (completed vs. cancelled rides)
 Most active pickup locations and peak time windows
 
 📊 Visual Insights
+
 Includes a variety of visualizations to:
 
 Compare ride status distribution
