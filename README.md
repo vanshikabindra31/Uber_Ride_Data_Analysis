@@ -1,4 +1,5 @@
 #🚕Uber_Ride_Data_Analysis
+
 A data-driven look into ride patterns using Python and visualization tools.
 This project explores user behavior, trip timing, and ride statuses using Uber data.
 
