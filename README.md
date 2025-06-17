@@ -28,3 +28,5 @@ Identify peak ride hours
 Reveal trends across dates and locations
 
 These visuals make it easier to interpret ride patterns and user behavior.
+[📄 View the Presentation PDF](Uber-Ride-Insights-Presentation.pdf)
+
